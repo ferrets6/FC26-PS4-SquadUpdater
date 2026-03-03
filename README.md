@@ -45,7 +45,7 @@ Requires Python 3.8+ and Windows.
 | [Web Version](docs/Web-Version.md) | How to use, how it works, self-hosting on Netlify |
 | [Technical Reference](docs/Technical-Reference.md) | Algorithms, DATA format, RefPack, architecture |
 
-→ [Full documentation (Wiki)](https://github.com/ferrets6/FC26-PS4-SquadUpdater/wiki)
+Full details also available on the [**Wiki**](https://github.com/ferrets6/FC26-PS4-SquadUpdater/wiki).
 
 ---
 
