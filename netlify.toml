@@ -1,5 +1,5 @@
 [build]
-  command = "cd web && npm run build"
+  command = "cd web && npm install && npm run build"
   publish = "web/dist"
 
 [dev]
