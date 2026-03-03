@@ -1,3 +1,7 @@
 .claude/*
-DATA
-result/*
+DATA*
+backup/*
+input/*
+output/*
+downloaded/*
+__pycache__/*
