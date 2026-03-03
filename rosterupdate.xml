@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<squad>
+  <squadInfoSet>
+    <squadInfo platform="nx2">
+      <dbMajor>442</dbMajor>
+      <dbMinor>1</dbMinor>
+      <dbMajorCRC>-1150299177</dbMajorCRC>
+      <dbMinorCRC>1938277486</dbMinorCRC>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/nx2/squads_20260217_442_1_n1150299177.bin</dbMajorLoc>
+      <dbMinorLoc>fc/fclive/genxtitle/roster/nx2/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
+      <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
+      <dbFUTVer>27</dbFUTVer>
+      <dbFUTCRC>-332545604</dbFUTCRC>
+      <dbFUTLoc>fc/fclive/genxtitle/roster/nx2/futsquads_20260205_27_1_n332545604.bin</dbFUTLoc>
+      <dbFUTSchemaCRC>96c77a14b539bb9629c7c022d8c517600af08b0a</dbFUTSchemaCRC>
+      <imagepathbase>fc/fclive/genxtitle/assets/nx2</imagepathbase>
+      <assetSet>
+        <asset type="image">gotwimage_38450.png</asset>
+        <asset type="image">gotwimage_38774.png</asset>
+        <asset type="image">gotwimage_39534.png</asset>
+        <asset type="image">gotwimage_46520.png</asset>
+        <asset type="image">gotwimage_default.png</asset>
+        <asset type="json">gotw_strings.json</asset>
+      </assetSet>
+    </squadInfo>
+    <squadInfo platform="nx">
+      <dbMajor>439</dbMajor>
+      <dbMinor>1</dbMinor>
+      <dbMajorCRC>1203127416</dbMajorCRC>
+      <dbMinorCRC>1938277486</dbMinorCRC>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/nx/squads_20260217_439_1_1203127416.bin</dbMajorLoc>
+      <dbMinorLoc>fc/fclive/genxtitle/roster/nx/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
+      <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
+      <dbFUTVer>27</dbFUTVer>
+      <dbFUTCRC>1925747467</dbFUTCRC>
+      <dbFUTLoc>fc/fclive/genxtitle/roster/nx/futsquads_20260206_27_1_1925747467.bin</dbFUTLoc>
+      <dbFUTSchemaCRC>96c77a14b539bb9629c7c022d8c517600af08b0a</dbFUTSchemaCRC>
+      <imagepathbase>fc/fclive/genxtitle/assets/xone</imagepathbase>
+      <assetSet>
+        <asset type="image">gotwimage_38450.png</asset>
+        <asset type="image">gotwimage_38774.png</asset>
+        <asset type="image">gotwimage_39534.png</asset>
+        <asset type="image">gotwimage_46520.png</asset>
+        <asset type="image">gotwimage_default.png</asset>
+        <asset type="json">gotw_strings.json</asset>
+      </assetSet>
+    </squadInfo>
+    <squadInfo platform="xone">
+      <dbMajor>464</dbMajor>
+      <dbMinor>1</dbMinor>
+      <dbMajorCRC>1203127416</dbMajorCRC>
+      <dbMinorCRC>1794008637</dbMinorCRC>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/xone/squads_20260218_464_1_1203127416.bin</dbMajorLoc>
+      <dbMinorLoc>fc/fclive/genxtitle/roster/xone/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
+      <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
+      <dbFUTVer>26</dbFUTVer>
+      <dbFUTCRC>1925747467</dbFUTCRC>
+      <dbFUTLoc>fc/fclive/genxtitle/roster/xone/futsquads_20260206_26_1_1925747467.bin</dbFUTLoc>
+      <dbFUTSchemaCRC>96c77a14b539bb9629c7c022d8c517600af08b0a</dbFUTSchemaCRC>
+      <imagepathbase>fc/fclive/genxtitle/assets/xone</imagepathbase>
+      <assetSet>
+        <asset type="image">gotwimage_38450.png</asset>
+        <asset type="image">gotwimage_38774.png</asset>
+        <asset type="image">gotwimage_39534.png</asset>
+        <asset type="image">gotwimage_46520.png</asset>
+        <asset type="image">gotwimage_default.png</asset>
+        <asset type="json">gotw_strings.json</asset>
+      </assetSet>
+    </squadInfo>
+    <squadInfo platform="xbsx">
+      <dbMajor>565</dbMajor>
+      <dbMinor>1</dbMinor>
+      <dbMajorCRC>-1150299177</dbMajorCRC>
+      <dbMinorCRC>327563856</dbMinorCRC>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/xbsx/squads_20260217_565_1_n1150299177.bin</dbMajorLoc>
+      <dbMinorLoc>fc/fclive/genxtitle/roster/xbsx/fixtures_20211109_1_1_327563856.bin</dbMinorLoc>
+      <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
+      <dbFUTVer>27</dbFUTVer>
+      <dbFUTCRC>-332545604</dbFUTCRC>
+      <dbFUTLoc>fc/fclive/genxtitle/roster/xbsx/futsquads_20260205_27_1_n332545604.bin</dbFUTLoc>
+      <dbFUTSchemaCRC>96c77a14b539bb9629c7c022d8c517600af08b0a</dbFUTSchemaCRC>
+      <imagepathbase>fc/fclive/genxtitle/assets/xbsx</imagepathbase>
+      <assetSet>
+        <asset type="image">gotwimage_38450.png</asset>
+        <asset type="image">gotwimage_38774.png</asset>
+        <asset type="image">gotwimage_39534.png</asset>
+        <asset type="image">gotwimage_46520.png</asset>
+        <asset type="image">gotwimage_default.png</asset>
+        <asset type="json">gotw_strings.json</asset>
+      </assetSet>
+    </squadInfo>
+    <squadInfo platform="ps4">
+      <dbMajor>464</dbMajor>
+      <dbMinor>1</dbMinor>
+      <dbMajorCRC>1203127416</dbMajorCRC>
+      <dbMinorCRC>1794008637</dbMinorCRC>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/ps4/squads_20260218_464_1_1203127416.bin</dbMajorLoc>
+      <dbMinorLoc>fc/fclive/genxtitle/roster/ps4/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
+      <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
+      <dbFUTVer>26</dbFUTVer>
+      <dbFUTCRC>1925747467</dbFUTCRC>
+      <dbFUTLoc>fc/fclive/genxtitle/roster/ps4/futsquads_20260206_26_1_1925747467.bin</dbFUTLoc>
+      <dbFUTSchemaCRC>96c77a14b539bb9629c7c022d8c517600af08b0a</dbFUTSchemaCRC>
+      <imagepathbase>fc/fclive/genxtitle/assets/ps4</imagepathbase>
+      <assetSet>
+        <asset type="image">gotwimage_38450.png</asset>
+        <asset type="image">gotwimage_38774.png</asset>
+        <asset type="image">gotwimage_39534.png</asset>
+        <asset type="image">gotwimage_46520.png</asset>
+        <asset type="image">gotwimage_default.png</asset>
+        <asset type="json">gotw_strings.json</asset>
+      </assetSet>
+    </squadInfo>
+    <squadInfo platform="ps5">
+      <dbMajor>565</dbMajor>
+      <dbMinor>1</dbMinor>
+      <dbMajorCRC>-1150299177</dbMajorCRC>
+      <dbMinorCRC>327563856</dbMinorCRC>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/ps5/squads_20260217_565_1_n1150299177.bin</dbMajorLoc>
+      <dbMinorLoc>fc/fclive/genxtitle/roster/ps5/fixtures_20211109_1_1_327563856.bin</dbMinorLoc>
+      <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
+      <dbFUTVer>27</dbFUTVer>
+      <dbFUTCRC>-332545604</dbFUTCRC>
+      <dbFUTLoc>fc/fclive/genxtitle/roster/ps5/futsquads_20260205_27_1_n332545604.bin</dbFUTLoc>
+      <dbFUTSchemaCRC>96c77a14b539bb9629c7c022d8c517600af08b0a</dbFUTSchemaCRC>
+      <imagepathbase>fc/fclive/genxtitle/assets/ps5</imagepathbase>
+      <assetSet>
+        <asset type="image">gotwimage_38450.png</asset>
+        <asset type="image">gotwimage_38774.png</asset>
+        <asset type="image">gotwimage_39534.png</asset>
+        <asset type="image">gotwimage_46520.png</asset>
+        <asset type="image">gotwimage_default.png</asset>
+        <asset type="json">gotw_strings.json</asset>
+      </assetSet>
+    </squadInfo>
+    <squadInfo platform="pc64">
+      <dbMajor>820</dbMajor>
+      <dbMinor>1</dbMinor>
+      <dbMajorCRC>-1150299177</dbMajorCRC>
+      <dbMinorCRC>1794008637</dbMinorCRC>
+      <dbMajorLoc>fc/fclive/genxtitle/roster/pc64/squads_20260217_820_1_n1150299177.bin</dbMajorLoc>
+      <dbMinorLoc>fc/fclive/genxtitle/roster/pc64/fixtures_20211110_1_1_1794008637.bin</dbMinorLoc>
+      <dbSchemaCRC>15eb55a5cc47f3e9732b6b58d81a5e9c6c91f332</dbSchemaCRC>
+      <dbFUTVer>27</dbFUTVer>
+      <dbFUTCRC>-332545604</dbFUTCRC>
+      <dbFUTLoc>fc/fclive/genxtitle/roster/pc64/futsquads_20260205_27_1_n332545604.bin</dbFUTLoc>
+      <dbFUTSchemaCRC>96c77a14b539bb9629c7c022d8c517600af08b0a</dbFUTSchemaCRC>
+      <imagepathbase>fc/fclive/genxtitle/assets/pc64</imagepathbase>
+      <assetSet>
+        <asset type="image">gotwimage_38450.png</asset>
+        <asset type="image">gotwimage_38774.png</asset>
+        <asset type="image">gotwimage_39534.png</asset>
+        <asset type="image">gotwimage_46520.png</asset>
+        <asset type="image">gotwimage_default.png</asset>
+        <asset type="json">gotw_strings.json</asset>
+      </assetSet>
+    </squadInfo>
+  </squadInfoSet>
+</squad>
