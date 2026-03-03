@@ -1,0 +1,12 @@
+[build]
+  command = "cd web && npm run build"
+  publish = "web/dist"
+
+[dev]
+  command    = "npm --prefix web run dev"
+  targetPort = 5173
+  port       = 8888
+
+[[edge_functions]]
+  function = "squad-proxy"
+  path     = "/api/squad-proxy"

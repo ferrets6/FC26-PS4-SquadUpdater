@@ -5,3 +5,9 @@ input/*
 output/*
 downloaded/*
 __pycache__/*
+
+# Web app
+web/node_modules/
+web/dist/
+# Local Netlify folder
+.netlify
