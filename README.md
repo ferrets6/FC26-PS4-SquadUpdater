@@ -51,6 +51,14 @@ Full details also available on the [**Wiki**](https://github.com/ferrets6/FC26-P
 
 ---
 
+## Credits & Sources
+
+- **[xAranaktu/FIFASquadFileDownloader](https://github.com/xAranaktu/FIFASquadFileDownloader)** — The original Python implementation: EA server communication, RefPack decompression, squad file assembly. This project builds directly on top of that work. License: MIT — Copyright 2021 Paweł (xAranaktu)
+- **[How to manually patch the PS4 squad header (YouTube)](https://www.youtube.com/watch?v=your-video-id)** — Video walkthrough explaining the binary header replacement process that this tool automates. Provided the foundation for understanding the PS4 save file structure and the T3DB/Type_Squads checksum mechanics.
+- **[Apollo Save Tool](https://github.com/bucanero/apollo-ps4)** — The PS4 homebrew app used to export and import saves via USB. Required for both the Python CLI and web version workflows.
+
+---
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
