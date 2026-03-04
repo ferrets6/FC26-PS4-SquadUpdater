@@ -15,7 +15,9 @@ Update your EA FC 26 PS4 squads with the latest EA data — no need to relaunch 
 
 ## Web Version
 
-Visit the hosted app, drop your `DATA` file, and download the patched version.
+**[fc26-ps4-squadupdater.netlify.app](https://fc26-ps4-squadupdater.netlify.app/)**
+
+Drop your `DATA` file, download the patched version.
 All processing happens in your browser — your file is never uploaded anywhere.
 
 → **[docs/Web-Version.md](docs/Web-Version.md)**
